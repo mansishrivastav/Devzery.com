@@ -1,0 +1,16 @@
+/node_modules
+# production build
+/build
+
+# misc
+.DS_Store
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Editor directories and files
+.idea
+.vscod
